@@ -1,4 +1,4 @@
-#Fix Problem Dell Noise on Linux Mint or Ubuntu 20.04 LTS
+# Fix Problem Dell Noise on Linux Mint or Ubuntu 20.04 LTS
 
 For fix problem dell laptop if you have noise use linux mint or ubuntu just typing:
 

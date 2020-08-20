@@ -11,6 +11,10 @@ echo 0 | sudo tee /sys/module/snd_hda_intel/parameters/power_save
 
 save and no need reboot..
 
-Or you can use this script sh on my file.
+Or you can use this script sh on my file :
 
+```
+./noise-dell.sh
+
+```
 Thanks 
